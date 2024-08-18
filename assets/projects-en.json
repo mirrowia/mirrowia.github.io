@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tribute Page",
+    "description": "The project is a tribute page to the rock band Linkin Park. The stack used is mainly HTML, CSS, with extensions and frameworks like SASS and Bootstrap, and some JavaScript for minimal functionalities.",
+    "images": [
+      { "id": 0, "src": "assets/images/project1-01.jpg" },
+      { "id": 1, "src": "assets/images/project1-02.jpg" },
+      { "id": 2, "src": "assets/images/project1-03.jpg" },
+      { "id": 3, "src": "assets/images/project1-04.jpg" },
+      { "id": 4, "src": "assets/images/project1-05.jpg" }
+    ],
+    "url": "https://mirrowia.github.io/PF_ISELLA/index.html",
+    "repository": "https://github.com/mirrowia/PF_ISELLA"
+  },
+  {
+    "name": "User List",
+    "description": "The page features a login system (You can register a new user or use the following credentials to log in, user: metalgear@gmail.com password: lalilulelo. Once authenticated, a list of users retrieved from a JSON file (or also possible from an API like https://swapi.dev) will be displayed. The stack for this project is mainly JavaScript, for styling it uses HTML, CSS with Bootstrap.",
+    "images": [
+      { "id": 0, "src": "assets/images/project2-01.jpg" },
+      { "id": 1, "src": "assets/images/project2-02.jpg" },
+      { "id": 2, "src": "assets/images/project2-03.jpg" },
+      { "id": 3, "src": "assets/images/project2-04.jpg" }
+    ],
+    "url": "https://mirrowia.github.io/ProyectoFinalIsellaJS/",
+    "repository": "https://github.com/mirrowia/ProyectoFinalIsellaJS"
+  },
+  {
+    "name": "E-Commerce React",
+    "description": "The site focuses on the shopping experience of a user in an online store. It populates data from Firebase, allows searching and filtering by product categories, and includes a shopping cart. It primarily uses React and Firebase.",
+    "images": [
+      { "id": 0, "src": "assets/images/project3-01.jpg" },
+      { "id": 1, "src": "assets/images/project3-02.jpg" },
+      { "id": 2, "src": "assets/images/project3-03.jpg" },
+      { "id": 3, "src": "assets/images/project3-04.jpg" }
+    ],
+    "url": "https://mirrowia.github.io/react_ecommerce/",
+    "repository": "https://github.com/mirrowia/react_ecommerce"
+  },
+  {
+    "name": "E-Commerce Node",
+    "description": "The project is mainly focused on developing the back-end of an online store. It involves creating a REST API that uses a No-SQL database (MongoDB on Atlas), user login with username and password or OAuth2 with GitHub, password encryption and token generation for user authentication, and role management for users (user or admin). The page also includes a chat using WebSocket (not currently working on Vercel) and file uploads.",
+    "images": [
+      { "id": 0, "src": "assets/images/project4-01.jpg" },
+      { "id": 1, "src": "assets/images/project4-02.jpg" },
+      { "id": 2, "src": "assets/images/project4-03.jpg" },
+      { "id": 3, "src": "assets/images/project4-04.jpg" },
+      { "id": 4, "src": "assets/images/project4-05.jpg" }
+    ],
+    "url": "https://mirrowia-nodejs-project.vercel.app",
+    "repository": "https://github.com/mirrowia/NodeJs-Express"
+  }
+]

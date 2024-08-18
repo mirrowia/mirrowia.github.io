@@ -1,0 +1,29 @@
+{
+  "NAVBAR": {
+    "WELCOME": "Home",
+    "ABOUTME": "About Me",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact"
+  },
+  "WELCOME": {
+    "GREETING": "Hello There! My name is",
+    "POSITION": "I am a fullstack developer"
+  },
+  "ABOUTME": {
+    "TITLE": "About Me",
+    "P1": "I am a full stack developer passionate about technology, with a special inclination towards back-end development. While I enjoy creating complete solutions, my true passion lies in building the architecture and logic that drive applications.",
+    "P2": "My main technology is Java, which, along with Python, were my first programming languages since I entered the world of development in 2006. I chose to focus on Java because of its power, versatility, and its iconic phrase 'write once, run anywhere,' which has allowed me to develop robust and scalable systems. Throughout my career, I have worked on a variety of projects, from web applications to RESTful services, always focusing on writing clean and efficient code.",
+    "P3": "In addition to Java, I also have experience with other technologies and tools that complement my ability to develop full stack applications, such as Angular, React, Node.js, Python, and SQL. However, it is in the back-end where I really find my groove. I am motivated by solving complex problems and optimizing processes to deliver solutions that not only work well but are also sustainable and maintainable in the long term.",
+    "P4": "I am always looking for new opportunities to learn, grow, and apply my experience to challenging projects. Reviewing the code I wrote in the past is an excellent way to see my evolution and growth over time."
+  },
+  "PROJECTS": {
+    "TITLE": "My Projects",
+    "BUTTONS": {
+      "TRY": "Try",
+      "GITHUB": "View on GitHub"
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Contact"
+  }
+}

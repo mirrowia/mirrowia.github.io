@@ -1,0 +1,29 @@
+{
+  "NAVBAR": {
+    "WELCOME": "Inicio",
+    "ABOUTME": "Acerca de mi",
+    "PROJECTS": "Proyectos",
+    "CONTACT": "Contacto"
+  },
+  "WELCOME": {
+    "GREETING": "¡Hola! Mi nombre es",
+    "POSITION": "Soy desarrollador fullstack"
+  },
+  "ABOUTME": {
+    "TITLE": "Acerca de mí",
+    "P1": "Soy un desarrollador full stack apasionado por la tecnología, con una inclinación especial hacia el desarrollo back-end. Aunque disfruto creando soluciones completas, mi verdadera pasión reside en construir la arquitectura y la lógica que impulsan las aplicaciones." ,
+    "P2": "Mi principal tecnología es Java, que junto con Python, fueron mis primeros lenguajes de programación desde que me introduje al mundo del desarrollo en 2006. Opté por enfocarme en Java por su potencia, versatilidad y su icónica frase \"write once, run anywhere\", lo que me ha permitido desarrollar sistemas robustos y escalables. A lo largo de mi carrera, he trabajado en una variedad de proyectos, desde aplicaciones web hasta servicios RESTful, siempre con un enfoque en escribir código limpio y eficiente." ,
+    "P3": "Además de Java, también tengo experiencia con otras tecnologías y herramientas que complementan mi habilidad para desarrollar aplicaciones full stack, como Angular, React, Node.js, Python y SQL. Sin embargo, es en el back-end donde realmente encuentro mi ritmo. Me motiva resolver problemas complejos y optimizar procesos para ofrecer soluciones que no solo funcionen bien, sino que también sean sostenibles y mantenibles a largo plazo.",
+    "P4": "Siempre estoy buscando nuevas oportunidades para aprender, crecer y aplicar mi experiencia en proyectos desafiantes. Revisar el código que escribí en el pasado es una excelente manera de ver mi evolución y el crecimiento que he tenido a lo largo del tiempo."
+  },
+  "PROJECTS": {
+    "TITLE": "Mis Proyectos",
+    "BUTTONS": {
+      "TRY": "Probar",
+      "GITHUB": "Ver en GitHub"
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Contacto"
+  }
+}
